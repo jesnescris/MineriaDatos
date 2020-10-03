@@ -7,3 +7,5 @@
 [Ejercicios de Regresión y Reglas de Asociación Resueltos](https://github.com/jesnescris/MineriaDatos/blob/master/Ejercicios1_1_003.pdf.pdf)
 
 [Mapa Mental 2](https://github.com/jesnescris/MineriaDatos/blob/master/Mapas_Mentales/Mapa%20Mental%202.pdf)
+
+[Resumen 1](https://github.com/jesnescris/MineriaDatos/blob/master/Resumenes/Resumen-1-Mineria-de-Datos.pdf)
